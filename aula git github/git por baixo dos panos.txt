@@ -1,0 +1,51 @@
+git funcionamento por baixo dos panos
+
+
+
+
+sha 1
+
+algoritimo de encriptacao gera um conjunto de caracteres de 40 digitos
+
+exemplo:
+
+abrir o git bash here na area de trabalho
+
+caminho : na area de trabalho botao direito-git bash here
+
+digitar
+
+openssl sha1 texto.txt    (texto.txt é o nome do arquivo txt que estamos usando)       enter
+
+vai aparecer  sha1
+  
+49123135ce0a008fa94eb791c070fc20e1c3a5f6
+
+se eu fizer qualquer mudanca no arquivo vai me dar outra chave diferente
+
+9cdfdd9fedb15ab8eb64b06ace50b804c37138f4
+
+
+se eu voltar o arquivo do jeito original vai me dar a chave inicial
+
+49123135ce0a008fa94eb791c070fc20e1c3a5f6
+
+
+
+                 objetos do git
+
+blobs
+trees
+commits
+
+
+blobs: contem metadados do git,sha1...
+
+trees: armazenam blobs,sha1,nome do arquivo...
+
+commits:é o objeto que junta tudo...
+
+
+
+
+

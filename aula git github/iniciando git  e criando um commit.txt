@@ -1,0 +1,88 @@
+iniciando o git e criando um commit
+
+
+
+comandos
+
+git init
+git add
+git commit
+
+criando um repositorio
+
+depois de criado no cmd windows a pasta workspace
+
+entrar no git bash here atraves do c:
+
+no terminal do git entar com comando dir listar
+
+vai mostrar todas as pastas do c: inclusive a pasta workspace
+vou entrar na pasta comando cd e o nome da pasta
+
+vou limpar tudo com comando ctrl l   ou cls
+
+vou criar outra pasta
+
+mkdir livro-receitas
+
+listar comando   dir          vai aparecer o novo diretorio livro-de-receitas
+
+
+limpar comando ctrl l    ou cls
+
+cd livro-de-receitas       enter
+
+
+comando
+
+git init      enter
+
+
+git config --global user.email "colocar e-mail"     enter
+
+
+git config --global user.name (colocar nick sem parentes)   enter
+
+
+ir para pasta livro de receitas
+abrir novo documento pode ser txt bloco de notas
+criar uma receita e salvar
+
+obs: fica mais facil usando o typora com estensao .md
+para mostrar a pasta .git vai na guia exibir e marcar a caixa exibir arquivos ocultos.
+
+voltar para o terminal git colocar o seguinte comando:
+
+git add *      enter      ou git .     enter
+
+git commit -m "commit inicial"    enter
+
+
+obs :onde esta "commit inicial"      colocar qualquer observaçao relevante a mudanca que foi feita
+
+ 
+nesse momento ja aparece os numeros iniciais do cha1 aparece commit inicial e o nome do arquivo
+
+
+
+
+para ver as credenciais de e-mail e nick name no terminal git
+
+comando
+
+git config --list    enter
+
+para alterar
+
+comando
+git config --global --unset user.email
+
+enter
+
+usando atalho seta pra cima chegar em user.email  apagar email e colocar user.name  e dar    enter
+
+
+usando novamete seta pra cima chegando em list   enter nao tera mais nem email nem nick name
+
+
+git status    mostra informacoes

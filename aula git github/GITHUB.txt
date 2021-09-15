@@ -1,0 +1,32 @@
+               github
+
+
+
+
+lado direito superior
+your repositories
+novo
+repository name (colocar nome do arquivo)
+descricao (preencher)
+public
+marcar inicializa this repository with a readme
+
+
+cready repositoyi
+ em codigo 
+ copiar o endereco  https
+
+voltar para o terminal git
+git remote add origin
+
+colar https://github.com/badaplles/livro-de-receitas.git
+
+git remote -v
+
+git status
+
+git push origin master
+
+vai pedir a senha 
+
+bolt0077?

@@ -1,0 +1,35 @@
+alteracoes 
+
+
+entrei no typora
+
+acrecentei mais uma receita exemplo:
+pave   
+salvei fechei o typora
+
+vou no terminal e dou comando
+git status
+
+vai aparcer 
+
+modified:     readme.md    quer dizer que esse arquivo sofreu alteracao
+
+vou dar git add *     ou git add .
+
+vou dar git status 
+
+agora ja pode ser comitado
+
+git commit -m "adiciona receita de pave"   
+obs :entre aspas colocar a obs que achar pertinente
+    
+agora  para mandar para o github 
+
+
+comando
+
+git push origin master
+
+
+
+

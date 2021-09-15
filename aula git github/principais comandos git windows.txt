@@ -1,0 +1,79 @@
+    comandos basicos git
+
+
+listar as pastas :  dir
+navegar nas pastas :cd /
+
+ai vai para diretorio c representado por c:\>
+
+para entrar dentro de uma pasta por exemplo windows vou digitar
+
+cd windows  enter
+
+
+ficando representado por
+c:\windows>
+
+se eu der comando dir vai listar todas as pastas dentro de windows
+
+
+para retroceder 1 nivel o comando é    cd ..
+
+
+para limpar o terminal o comando é:    cls ou  ctrl+l
+
+
+tab serve para autocompletar
+
+
+        criar pasta
+
+em c:\>
+
+mkdir    e o nome da pasta  enter
+
+
+exemplo:
+
+a pasta que foi criada é workspace
+
+fica representada por c:\workspace
+
+
+    criar arquivo dentro da pasta
+
+
+usar    echo hello > hello.txt   enter
+
+para ver se o arquivo foi criado dentro de workspace lista usando dir    vai aparecer a pasta hello.txt
+
+c\ enter
+sair da pasta   cd  ..
+limpar  cls
+listar  dir
+
+
+
+apagar pasta
+
+em   c:\>
+
+comando    del e o nome da pasta que no caso é workspace
+
+vai aparecer a mensagem tem certeza  s\n  quando confirmado atraves do (s) sim vai apagar somente o arquivo dentro de workspace
+
+
+para apagar a pasta workspace em
+
+c:\>
+
+usar o comando     rmdir workspace /s /q  enter
+
+
+
+
+
+
+
+
+
